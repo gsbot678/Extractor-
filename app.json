@@ -11,7 +11,7 @@
     "success_url": "https://t.me/Opleech_WD",
     "stack": "heroku-22",
     "env": {
-        "API_ID": { '
+        "API_ID": { 
             "description": "𝑬𝒏𝒕𝒆𝒓 𝒀𝒐𝒖𝒓 𝑨𝒑𝒊 𝑰𝑫",
             "required": true
         },
