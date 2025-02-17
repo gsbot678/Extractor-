@@ -11,11 +11,11 @@
     "success_url": "https://t.me/Opleech_WD",
     "stack": "heroku-22",
     "env": {
-        "API_ID": {21068358 '
+        "API_ID": { '
             "description": "𝑬𝒏𝒕𝒆𝒓 𝒀𝒐𝒖𝒓 𝑨𝒑𝒊 𝑰𝑫",
             "required": true
         },
-        "API_HASH": {59b25ebe3c01c8d2a469776cec4f20b6
+        "API_HASH": {
             "description": "𝑬𝒏𝒕𝒆𝒓 𝒀𝒐𝒖𝒓 𝑨𝒑𝒊 𝑯𝒂𝒔𝒉",
             "required": true
         },
